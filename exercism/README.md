@@ -1,2 +1,4 @@
 # Exercism Exercises
-All exercises I've done from [Exercism](https://exercism.io/), separated by problem and then by programing language.
+All exercises from [Exercism](https://exercism.io/) I've done.
+
+In each directory, you'll find a source file which contains my solution, and anther source file for the best solution (IMO or based on the votes) provided by other users on Edabit.
