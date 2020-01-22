@@ -1,1 +1,3 @@
-export const hello = () => "Hello, World!";
+const hello = () => "Hello, World";
+
+export default hello;

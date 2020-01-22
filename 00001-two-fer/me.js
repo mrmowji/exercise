@@ -1,2 +1,3 @@
-export const twoFer = (otherPerson = "you") =>
-  `One for ${otherPerson}, one for me.`;
+const twoFer = (otherPerson = "you") => `One for ${otherPerson}, one for me.`;
+
+export default twoFer;
