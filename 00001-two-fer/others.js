@@ -1,6 +1,6 @@
 export const twoFer = name => {
   if (name === undefined) {
-    name = 'you'
+    name = "you";
   }
-  return `One for ${name}, one for me.`
+  return `One for ${name}, one for me.`;
 };

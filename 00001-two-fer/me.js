@@ -1,3 +1,2 @@
-export const twoFer = (otherPerson = "you") => {
-  return `One for ${otherPerson}, one for me.`;
-}
+export const twoFer = (otherPerson = "you") =>
+  `One for ${otherPerson}, one for me.`;

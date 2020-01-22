@@ -1,0 +1,22 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "All exercises I've done",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmowji/exercises.git"
+  },
+  "author": "Mojtaba Javan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmowji/exercises/issues"
+  },
+  "homepage": "https://github.com/mrmowji/exercises#readme",
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
