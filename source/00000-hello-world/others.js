@@ -1,4 +1,4 @@
-export const hello = () => {
+const hello = () => {
   return "Hello, World!";
 };
 
