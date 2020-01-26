@@ -1,6 +1,6 @@
 # Topics
 
-Here is the list of topics/concepts I met through these exercises.
+Here is the list of topics/concepts which in my opinion will help you with these exercises.
 
 This file is structured in a way you can easily go through, from being a beginner to becoming an expert (hopefully).
 
@@ -49,9 +49,19 @@ But hey. We don't live in a perfect world. So here are some tools I use for the 
 
 ### Visual Studio Code (VS Code)
 
-We need some text editor to write our codes. I've used many text editors and IDEs. But in the end, I became a fan of VS Code. It's easy, beautiful, cross-platform, relatively lightweight, and it has one of the best docs to read and learn. Actually VS Code and .NET Core were the reasons why I abandoned Visual Studio (which is a really heavy IDE for .NET development) and migrated to Ubuntu. Even though it's developed using Electron, but it's much faster than other Electron softwares I've tested (e.g. Postman which I stopped using for good).
+We need some text editor to write our codes. I've used many text editors and IDEs. But in the end, I became a fan of VS Code. It's easy, beautiful, cross-platform, relatively lightweight, and it has one of the best docs to read and learn. Actually VS Code and .NET Core were the main reasons why I abandoned Visual Studio (which is a really heavy IDE for .NET development) and migrated to Ubuntu. Even though it's developed using Electron, but it's much faster than other Electron softwares I've tested (e.g. Postman which I stopped using for good).
 
 **Best resources** to get started or follow:
 
 - [Official Website](https://code.visualstudio.com)
 - [Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+
+### Git
+
+### Prettier
+
+### ESLint
+
+### Husky
+
+### Jest
