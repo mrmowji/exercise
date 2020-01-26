@@ -20,3 +20,5 @@ npm install
 ```bash
 npm run test
 ```
+
+To see what's that all about, see [Topics](TOPICS.md).
