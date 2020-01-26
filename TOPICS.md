@@ -40,3 +40,18 @@ TypeScript (TS) is an open-source programming language developed and maintained 
 - [Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 
 ## Tools
+
+I'm a minimalist, or at least I try to be one. In this heavy flow, the first thing that bothers me the most is the bloated software development path.
+
+From time to time, we hear about a new language, tool, etc., but what's the point? The intentions are (or might be) good, the results are not probably. I wrote an article (in Persian/Farsi) regarding [GUI Coding Languages](https://mrmowji.com/why-no-agreement-on-gui-language) from this point of view. The same issue could be generalized to other types of languages.
+
+But hey. We don't live in a perfect world. So here are some tools I use for the purpose of this repository. Some of them seem essential to me. Currently I'm experiencing new ones, so the file will be updated when I find them necessary for a developer's life.
+
+### Visual Studio Code (VS Code)
+
+We need some text editor to write our codes. I've used many text editors and IDEs. But in the end, I became a fan of VS Code. It's easy, beautiful, cross-platform, relatively lightweight, and it has one of the best docs to read and learn. Actually VS Code and .NET Core were the reasons why I abandoned Visual Studio (which is a really heavy IDE for .NET development) and migrated to Ubuntu. Even though it's developed using Electron, but it's much faster than other Electron softwares I've tested (e.g. Postman which I stopped using for good).
+
+**Best resources** to get started or follow:
+
+- [Official Website](https://code.visualstudio.com)
+- [Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
