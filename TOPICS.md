@@ -58,6 +58,17 @@ We need some text editor to write our codes. I've used many text editors and IDE
 
 ### Git
 
+Git is a free and open source distributed version control system (VCS) designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. A version control system is one the most essential tools for software development. Since you're reading this file on GitHub, you might be familiar with the subject.
+
+**Best resources** to get started or follow:
+
+- [Official Website](https://git-scm.com)
+- [Wikipedia](https://en.wikipedia.org/wiki/Git)
+
+### Node.js
+
+### NPM
+
 ### Prettier
 
 ### ESLint
